@@ -1,0 +1,34 @@
+<div class="row">
+  <h2>Reservation List</h2>
+</div>
+
+<table class="table table-striped table-bordered">
+  <thead>
+    <tr>
+      <th>Nom</th>
+      <th>Prénom</th>
+      <th>Contact</th>
+      <th>Date</th>
+      <th>Heure</th>
+      <th>Statut de paiement</th>
+      <th>Date de paiement</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr *ngFor="let reservation of reservations">
+      <td>{{ reservation.nomEpoux }}</td>
+      <td>{{ reservation.prenomEpoux }}</td>
+      <td>{{ reservation.nomEpouse}}</td>
+      <td>{{ reservation.prenomEpouse }}</td>
+      <td>{{ reservation.contact }}</td>
+      <td>{{ reservation.date }}</td>
+      <td>{{ reservation.reservations_status }}</td>
+      <td>
+        <button (click)="updateReservation(reservation.id)" class="btn btn-primary">Update</button>
+        <button (click)="deleteReservation(reservation.id)" class="btn btn-danger" style="margin-left: 10px">Delete</button>
+        <button (click)="reservationDetails(reservation.id)" class="btn btn-primary" style="margin-left: 10px">View</button>
+        <!-- <button routerLink="/enregistrer" class="btn btn-primary" style="margin-left: 10px">View</button> -->
+      </td>
+    </tr>
+  </tbody>
+</table>
