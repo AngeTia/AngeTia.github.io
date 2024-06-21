@@ -52,5 +52,5 @@ window.addEventListener('resize', () => {
   canvas.height = window.innerHeight;
 });
 
-// Start the animation initially
-startAnimation();
+// Delay the initial start of animation
+setTimeout(startAnimation, 60000); // Start animation after 1 minute (60000 milliseconds)
