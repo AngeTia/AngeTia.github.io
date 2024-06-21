@@ -10,7 +10,7 @@ body {
   flex-direction: column;
   min-height: 100vh;
   text-align: center;
-  overflow: hidden;
+  overflow-x: hidden; /* Correction pour éviter le défilement horizontal */
 }
 
 header {
@@ -32,10 +32,17 @@ header h2 {
 }
 
 .container {
-  width: 80%;
+  width: 90%; /* Augmentation de la largeur pour un meilleur espacement */
   max-width: 1000px;
-  margin: 0 auto;
-  padding: 2rem 0;
+  margin: 2rem auto; /* Augmentation de la marge pour l'espacement par rapport aux bords */
+  padding: 2rem;
+  background-color: #fff; /* Ajout d'un fond blanc pour mieux délimiter le contenu */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Ajout d'une légère ombre pour la profondeur */
+  border-radius: 8px; /* Coins arrondis pour un aspect plus moderne */
+}
+
+section {
+  margin-bottom: 2rem; /* Espacement entre les sections */
 }
 
 section h1 {
@@ -43,26 +50,29 @@ section h1 {
   margin-bottom: 1rem;
 }
 
-section p, section ul {
+section p {
   font-size: 1.1rem;
   line-height: 1.6;
+  margin-bottom: 1rem;
 }
 
 section ul {
+  font-size: 1.1rem;
+  line-height: 1.6;
   list-style: none;
   padding: 0;
 }
 
 section ul li {
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem; /* Espacement réduit entre les éléments de la liste */
 }
 
 .badges {
-  text-align: center;
+  margin-top: 1rem; /* Espacement par rapport au contenu précédent */
 }
 
 .badges a {
-  margin: 0 1rem;
+  margin: 0 0.5rem; /* Réduction de la marge entre les badges */
 }
 
 .tech-icons {
@@ -73,6 +83,8 @@ section ul li {
 
 .tech-icons img {
   margin: 0.5rem;
+  width: 50px; /* Taille uniforme pour les icônes */
+  height: 50px;
 }
 
 footer {
