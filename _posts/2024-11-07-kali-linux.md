@@ -3,7 +3,7 @@ layout: post
 title: Kali Linux
 date: 07-11-2024
 categories: [Cybersecurity]
-tag: # [like, comment, subscribe]
+tag: [CyberSec]
 ---
 
 # Les créateurs de Kali Linux proposent une formation gratuite en cybersécurité en ligne
