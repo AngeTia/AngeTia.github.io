@@ -14,7 +14,7 @@ La cybersécurité devient de plus en plus cruciale dans notre quotidien, avec d
 
 Kali Linux est un système d'exploitation conçu spécifiquement pour les professionnels de la cybersécurité, offrant une boîte à outils puissante pour tester et sécuriser des systèmes. Utilisé par des experts du monde entier, il est au cœur de l'apprentissage en cybersécurité.
 
-![Kali Linux](https://media.licdn.com/dms/image/v2/D4D22AQEuEYHBMwg45A/feedshare-shrink_1280/feedshare-shrink_1280/0/1730905793951?e=1733961600&v=beta&t=qeu-z-z1IwnFxbpu16HR_zTpMQzLR1PQP0JOwsj3Ovk)
+![Kali Linux](/assets/media/Kali.png)
 
 ## Ce que vous apprendrez
 
@@ -35,4 +35,4 @@ Pour participer, il suffit d'avoir un compte **Twitch** et de visiter le canal *
 
 **Ne manquez pas cette opportunité de devenir un expert en cybersécurité grâce à la formation gratuite d'OffSec.**
 
-Pour commencer votre voyage, visitez [OffSecOfficial sur Twitch](https://www.twitch.tv/offsecofficial).
+Pour commencer votre voyage, visitez : [OffSecOfficial sur Twitch](https://www.twitch.tv/offsecofficial).
