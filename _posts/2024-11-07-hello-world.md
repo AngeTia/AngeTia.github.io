@@ -6,7 +6,6 @@ categories: [documentation]
 tag: [like, comment, subscribe]
 ---
 
-```markdown
 # Introduction à la Cybersécurité : Protégez Votre Monde Numérique
 
 ## 🌐 Qu'est-ce que la Cybersécurité ?
@@ -101,4 +100,3 @@ La cybersécurité est un pilier fondamental de notre société numérique. En c
 ---
 
 *Restez informé, restez sécurisé !*
-```
