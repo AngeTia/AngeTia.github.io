@@ -6,7 +6,7 @@ theme: jekyll-theme-chirpy
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: en
+lang: fr
 
 # Change to your timezone › https://kevinnovak.github.io/Time-Zone-Picker
 timezone:
@@ -31,8 +31,8 @@ github:
 twitter:
   username: AngeTia03 # change to your Twitter username
 
-linkedin:
-  username: AngeTia03
+#linkedin:
+  #username: AngeTia03
 
 social:
   # Change to your full name.
@@ -45,7 +45,7 @@ social:
     - https://github.com/angetia # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/angetia03
+    # - https://www.linkedin.com/in/angetia03
 
 # Site Verification Settings
 webmaster_verifications:
