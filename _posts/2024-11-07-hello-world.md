@@ -3,7 +3,7 @@ layout: post
 title: Introduction à la Cybersécurité
 date: 07-11-2024
 categories: [documentation]
-tag: [like, comment, subscribe]
+tag: # [like, comment, subscribe]
 ---
 
 # Introduction à la Cybersécurité : Protégez Votre Monde Numérique
