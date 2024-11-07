@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 # will be added to all media resources (site avatar, posts' images, audio and video files) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-cdn:
+cdn: https://cdn.com
 
 # the avatar on sidebar, support local or CORS resources
 avatar: https://media.licdn.com/dms/image/v2/D4E03AQFAFUYFU5o5iw/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1722194044879?e=1736380800&v=beta&t=2wkusVbyinx2b1lLIur55w0FNHMMS9E1OFZrkkKqYco
@@ -110,7 +110,7 @@ social_preview_image: # string, local or CORS resources
 # boolean type, the global switch for TOC in posts.
 toc: true
 
-comments:
+comments: true
   # Global switch for the post-comment system. Keeping it empty means disabled.
   provider: # [disqus | utterances | giscus]
   # The provider options are as follows:
