@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Gompou Tia Ange
-
 ## 🎯 Profil LinkedIn
 [Visitez mon profil LinkedIn](https://www.linkedin.com/in/angetia03/)
 
