@@ -35,4 +35,4 @@ Pour participer, il suffit d'avoir un compte **Twitch** et de visiter le canal *
 
 **Ne manquez pas cette opportunité de devenir un expert en cybersécurité grâce à la formation gratuite d'OffSec.**
 
-Pour commencer votre voyage, visitez [OffSecOfficial sur Twitch](https://www.twitch.tv/offsecofficial).
+Pour commencer votre voyage, visitez : [OffSecOfficial sur Twitch](https://www.twitch.tv/offsecofficial).
