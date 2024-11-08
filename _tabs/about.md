@@ -16,8 +16,10 @@ Passionné par la **cybersécurité** et le **développement informatique**, je 
 - **Formation et Vulgarisation** : Création de contenu éducatif en cybersécurité pour sensibiliser les équipes et promouvoir les bonnes pratiques.
 
 ## 🛠 Compétences Techniques
-- **Langages de Programmation** : Python, PHP, JavaScript, HTML, CSS
-- **Frameworks et Outils** : Symfony, Angular, Kali Linux, Jekyll
+- **Langages de Programmation** : Python, BASH, PHP, JavaScript, HTML, CSS
+- **Frameworks et Outils** : Symfony, Angular, Jekyll, etc...
+- **Pentest Web** : Burp Suite, OWASP ZAP, Nikto, Dirbuster, SQLmap, Nmap, WPScan, Nuclei, katana, etc...
+- **Red Team** : Metasploit, Sliver, Havoc C2, BloodHound, Empire, Mimikatz, PowerShell Empire, CrackMapExec, etc...
 - **Cybersécurité** : Intrusion Testing, Reconnaissance, Exploitation des vulnérabilités, Command & Control
 - **Technologies de Base de Données** : PostgreSQL, MySQL
 
