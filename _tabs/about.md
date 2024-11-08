@@ -22,8 +22,21 @@ Passionné par la **cybersécurité** et le **développement informatique**, je 
 - **Technologies de Base de Données** : PostgreSQL, MySQL
 
 ## 📈 Projets et Réalisations
-- **TechPlus Services** : Création d’une entreprise de services informatiques pour fournir des solutions abordables aux petites entreprises.
-- **Développement d’une Plateforme de Sensibilisation à la Sécurité** : Conception et animation de contenus de formation en cybersécurité pour sensibiliser les développeurs aux risques numériques.
+
+- **TechPlus Services** : Création d’une entreprise de services informatiques, *TechPlus Services*, visant à fournir des solutions technologiques abordables et efficaces aux petites entreprises locales.
+
+- **Développement d’une Plateforme de Sensibilisation à la Sécurité** : Conception et animation de contenus de formation en cybersécurité pour sensibiliser les développeurs aux risques numériques et aux bonnes pratiques de sécurité.
+
+- **Projets GitHub** :
+  - [System-Security](https://github.com/AngeTia/System-Security) : Un projet axé sur la sécurité des systèmes, avec des scripts et des outils de renforcement de la sécurité.
+  - [CheckUACBypass](https://github.com/AngeTia/CheckUACBypass) : Un outil permettant d’analyser les mécanismes de contournement du contrôle de compte utilisateur (UAC) sur Windows.
+  - [IpConfig](https://github.com/AngeTia/IpConfig) : Un utilitaire pour la gestion et la configuration des paramètres réseau, conçu pour simplifier l'administration réseau.
+  - [AdminControlOnWindows](https://github.com/AngeTia/AdminControlOnWindows) : Un projet dédié au contrôle administratif sous Windows, pour gérer les privilèges d'accès et améliorer la sécurité des systèmes.
+
+---
+
+Ces projets montrent mon engagement pour le développement de solutions pratiques et sécurisées, adaptées aux besoins actuels de l'industrie.
+
 
 ## 📚 Formations et Certifications
 - **Certifications** : Plusieurs certifications en sécurité informatique et en développement web.
