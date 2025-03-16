@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Commandes Linux
+title: 🚀 Automatiser l'exécution des outils de cybersécurité avec un script global
 date: 07-11-2024
 categories: [System]
-tag: [linux,CyberSec]
+tag: [Linux,CyberSec]
 ---
 
 # 🚀 Automatiser l'exécution des outils de cybersécurité avec un script global

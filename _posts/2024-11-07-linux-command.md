@@ -3,7 +3,7 @@ layout: post
 title: Commandes Linux
 date: 07-11-2024
 categories: [System]
-tag: [linux]
+tag: [Linux]
 ---
 
 # Commandes Linux : Débutant, Intermédiaire et Avancé
