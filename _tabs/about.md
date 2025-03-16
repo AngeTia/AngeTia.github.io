@@ -34,7 +34,8 @@ Passionné par la **cybersécurité** et le **développement informatique**, je 
   - [CheckUACBypass](https://github.com/AngeTia/CheckUACBypass) : Un outil permettant d’analyser les mécanismes de contournement du contrôle de compte utilisateur (UAC) sur Windows.
   - [IpConfig](https://github.com/AngeTia/IpConfig) : Un utilitaire pour la gestion et la configuration des paramètres réseau, conçu pour simplifier l'administration réseau.
   - [AdminControlOnWindows](https://github.com/AngeTia/AdminControlOnWindows) : Un projet dédié au contrôle administratif sous Windows, pour gérer les privilèges d'accès et améliorer la sécurité des systèmes.
-
+  - [SQLi_Scan] (https://github.com/AngeTia/SQLi_Scan): Un outil dédié à la détection des vulnérabilités par injection SQL, permettant d'identifier et d'analyser les failles potentielles dans les applications web afin d'améliorer leur sécurité.
+  - 
 ---
 
 Ces projets montrent mon engagement pour le développement de solutions pratiques et sécurisées, adaptées aux besoins actuels de l'industrie.
