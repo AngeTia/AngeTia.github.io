@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Système de Fichiers Standard (FHS - Filesystem Hierarchy Standard)
-date: 07-11-2024
+date: 16-03-2025
 categories: [System]
 tag: [Linux,System]
 ---
