@@ -1,43 +1,37 @@
-# Chirpy Starter
+# AngeTia - Cybersecurity & Ethical Hacking
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+Bienvenue sur **AngeTia**, un espace dédié à la cybersécurité offensive, aux tests d'intrusion et aux outils de hacking éthique. Vous y trouverez des articles, des démonstrations, et des outils utiles pour renforcer vos compétences en sécurité informatique.
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+## 🛡️ À propos
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+**AngeTia** se concentre sur l'apprentissage et le partage de connaissances en cybersécurité, avec un accent particulier sur :
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+- 🔍 **Reconnaissance et énumération**
+- 💻 **Exploitation et post-exploitation**
+- 🛠️ **Outils de pentest et d'automatisation**
+- 🎓 **Formation et sensibilisation à la cybersécurité**
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+## 📌 Ressources principales
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+### 🔗 [Blog & Articles](https://angetia.github.io/blog/)
+Retrouvez des guides détaillés sur l’exploitation des vulnérabilités, l’analyse de systèmes et les techniques de pentest avancées.
 
-## Usage
+### ⚙️ [Outils et Scripts](https://angetia.github.io/tools/)
+Une sélection d’outils et de scripts pour faciliter les tests d'intrusion et automatiser certaines tâches.
 
-Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+### 🎥 [Démonstrations et CTFs](https://angetia.github.io/demos/)
+Des démonstrations pratiques et des challenges pour améliorer vos compétences en cybersécurité offensive.
 
-## Contributing
+## 🚀 Comment contribuer ?
+Si vous souhaitez partager des idées, proposer des améliorations ou discuter de cybersécurité, n’hésitez pas à :
 
-This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+- ⭐ Suivre les mises à jour du site
+- 📧 Me contacter pour échanger
+- 📌 Contribuer en partageant vos connaissances
 
-## License
+## 📢 Disclaimer
+L’ensemble des ressources et outils présentés sont destinés à des **fins éducatives et légales uniquement**. L'utilisation de ces informations à des fins malveillantes est strictement interdite.
 
-This work is published under [MIT][mit] License.
+---
 
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+🔐 **AngeTia - Explore, Learn & Secure!**
