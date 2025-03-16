@@ -1,4 +1,4 @@
-# AngeTia - Cybersecurity & Ethical Hacking
+# Gompou Tia Ange  - Offensive Security | FullStack PHP Developer
 
 Bienvenue sur **AngeTia**, un espace dédié à la cybersécurité offensive, aux tests d'intrusion et aux outils de hacking éthique. Vous y trouverez des articles, des démonstrations, et des outils utiles pour renforcer vos compétences en sécurité informatique.
 
@@ -13,13 +13,13 @@ Bienvenue sur **AngeTia**, un espace dédié à la cybersécurité offensive, au
 
 ## 📌 Ressources principales
 
-### 🔗 [Blog & Articles](https://angetia.github.io/blog/)
+### 🔗 [Blog & Articles]
 Retrouvez des guides détaillés sur l’exploitation des vulnérabilités, l’analyse de systèmes et les techniques de pentest avancées.
 
-### ⚙️ [Outils et Scripts](https://angetia.github.io/tools/)
+### ⚙️ [Outils et Scripts]
 Une sélection d’outils et de scripts pour faciliter les tests d'intrusion et automatiser certaines tâches.
 
-### 🎥 [Démonstrations et CTFs](https://angetia.github.io/demos/)
+### 🎥 [Démonstrations et CTFs]
 Des démonstrations pratiques et des challenges pour améliorer vos compétences en cybersécurité offensive.
 
 ## 🚀 Comment contribuer ?
