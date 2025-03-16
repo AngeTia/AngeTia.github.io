@@ -1,10 +1,10 @@
-# Gompou Tia Ange  - Offensive Security | FullStack PHP Developer
+# Think3r3r  - Offensive Security | FullStack PHP Developer
 
-Bienvenue sur **AngeTia**, un espace dédié à la cybersécurité offensive, aux tests d'intrusion et aux outils de hacking éthique. Vous y trouverez des articles, des démonstrations, et des outils utiles pour renforcer vos compétences en sécurité informatique.
+Bienvenue sur **AngeTia.github.io**, un espace dédié à la cybersécurité offensive, aux tests d'intrusion et aux outils de hacking éthique. Vous y trouverez des articles, des démonstrations, et des outils utiles pour renforcer vos compétences en sécurité informatique.
 
 ## 🛡️ À propos
 
-**AngeTia** se concentre sur l'apprentissage et le partage de connaissances en cybersécurité, avec un accent particulier sur :
+**AngeTia.github.io** se concentre sur l'apprentissage et le partage de connaissances en cybersécurité, avec un accent particulier sur :
 
 - 🔍 **Reconnaissance et énumération**
 - 💻 **Exploitation et post-exploitation**
@@ -34,4 +34,4 @@ L’ensemble des ressources et outils présentés sont destinés à des **fins �
 
 ---
 
-🔐 **AngeTia - Explore, Learn & Secure!**
+🔐 **Think3r3r - Explore, Learn & Secure!**
